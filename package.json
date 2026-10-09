@@ -20,5 +20,5 @@
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.2.0"
   },
-  "packageManager": "yarn@1.22.22"
+  "packageManager": "npm@10.8.2"
 }
